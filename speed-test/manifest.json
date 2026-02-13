@@ -1,0 +1,15 @@
+{
+  "id": "speed-test",
+  "name": "Speed Test Plugin",
+  "version": "1.0.0",
+  "description": "Test your internet connection speed and ping",
+  "author": "InvolveX Team",
+  "entry": "index.js",
+  "keywords": ["network", "speed", "internet", "ping", "test"],
+  "dependencies": {
+    "speedtest-net": "^2.2.0",
+    "round-to": "^7.0.0"
+  },
+  "repository": "https://github.com/involvex/involvex-plugins",
+  "license": "MIT"
+}
